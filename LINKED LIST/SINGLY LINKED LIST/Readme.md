@@ -17,6 +17,8 @@ Basic Structure :
 
     ![Diagram](LINKED LIST/SINGLY LINKED LIST/Assets/Sample.drawio.svg)
 
+    <img src="Assets/Sample.drawio.svg" width="400" />
+
 
 Real-World Examples (With Technical Accuracy) :
 

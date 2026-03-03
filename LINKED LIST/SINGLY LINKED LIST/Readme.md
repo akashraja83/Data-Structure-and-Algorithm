@@ -13,9 +13,8 @@ Introduction :
 
 Basic Structure :
 
+
 ![Diagram](Assets/SLLDiagram.png)
-
-
 Real-World Examples (With Technical Accuracy) :
 
     🌐 1️⃣ Forward Navigation (Simplified Browser Model)

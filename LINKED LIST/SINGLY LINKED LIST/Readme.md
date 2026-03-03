@@ -15,7 +15,7 @@ Basic Structure :
 
     [Data | Next] -> [Data | Next] -> [Data | Next] -> null
 
-    ![Diagram](LINKED LIST/SINGLY LINKED LIST/Assets/Sample.drawio.svg)
+    ![Diagram](Assets/Sample.drawio.svg)
 
     <img src="Assets/Sample.drawio.svg" width="400" />
 

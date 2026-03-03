@@ -13,7 +13,7 @@ Introduction :
 
 Basic Structure :
 
-    [Data | Next] -> [Data | Next] -> [Data | Next] -> null
+![Diagram](Assets/SLLDiagram.png)
 
 
 Real-World Examples (With Technical Accuracy) :

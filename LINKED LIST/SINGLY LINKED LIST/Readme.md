@@ -15,7 +15,7 @@ Basic Structure :
 
 
 
-![Diagram](Assets/SLLDiagram.svg)
+![Diagram](Assets/SLLDiagram.png)
 
 Real-World Examples (With Technical Accuracy) :
 

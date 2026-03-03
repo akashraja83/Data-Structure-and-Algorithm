@@ -15,6 +15,8 @@ Basic Structure :
 
     [Data | Next] -> [Data | Next] -> [Data | Next] -> null
 
+    ![Diagram](Assets/Sample.svg)
+
 
 Real-World Examples (With Technical Accuracy) :
 

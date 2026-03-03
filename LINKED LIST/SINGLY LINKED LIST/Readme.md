@@ -15,7 +15,7 @@ Basic Structure :
 
     [Data | Next] -> [Data | Next] -> [Data | Next] -> null
 
-    ![Diagram]([Assets/Sample.svg](https://github.com/akashraja83/Data-Structure-and-Algorithm/blob/main/LINKED%20LIST/SINGLY%20LINKED%20LIST/Assets/Sample.drawio.svg))
+    ![Diagram](LINKED LIST/SINGLY LINKED LIST/Assets/Sample.drawio.svg)
 
 
 Real-World Examples (With Technical Accuracy) :

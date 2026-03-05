@@ -14,7 +14,7 @@ Introduction :
 
 Basic Structure :
 
-Implementation using Singly Linked List
+Diagram for Circular Singly Linked List :
 
 
-![Diagram](Assets/Circularly-Linked-List-[SLL]-Diagram.png)
+![Diagram](Assets/Circular-Singly-Linked-List-Diagram.png)

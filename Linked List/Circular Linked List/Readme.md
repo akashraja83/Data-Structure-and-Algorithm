@@ -15,14 +15,14 @@
 
 <h4>Basic Structure :</h4>
 
-Diagram for Circular Singly Linked List :
+<p>Diagram for Circular Singly Linked List :</p>
 <br>
 <br>
 ![Diagram](Assets/Circular-Singly-Linked-List-Diagram.png)
 
 <hr>
 <br>
-Diagram for Circular Singly Linked List :
+<p>Diagram for Circular Singly Linked List :</p>
 <br>
 <br>
 

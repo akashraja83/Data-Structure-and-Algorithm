@@ -10,22 +10,19 @@ Introduction :
       -Traversal is possible in both directions (forward and backward)
       -Memory is not contiguous
       -Nodes are dynamically allocated and connected using two links
-<br>
 <hr>
 Basic Structure :
-<br>
 <br>
 
 ![Diagram](Assets/Doubly-Linked-List-Diagram.png)
 
-<br>
 <hr>
 
 <ol>
 <li>
 <strong>Advantages of a Doubly Linked List</strong>
     
-        <ul>
+<ul>
             <li>
                 <strong>Bidirectional Traversal</strong>
                 <ul>
@@ -57,12 +54,12 @@ Basic Structure :
         </ul>
 </li>
 
-<br>
+
 <hr>
 <li>
     <strong>Drawbacks of a Doubly Linked List</strong>
     
-    <ul>
+<ul>
         <li>
             <strong>More Memory Usage</strong>
             <ul>
@@ -93,5 +90,4 @@ Basic Structure :
 </li>
 </ol>
 
-<br>
 <hr>

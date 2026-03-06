@@ -12,7 +12,7 @@
       -Memory is not contiguous.
       -Nodes are dynamically allocated and connected using a single link (next pointer).
 
-
+<hr>
 <h4>Basic Structure :</h4>
 
 <p>Diagram for Circular Singly Linked List :</p>

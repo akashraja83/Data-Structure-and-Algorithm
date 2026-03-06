@@ -25,5 +25,6 @@ Diagram for Circular Singly Linked List :
 Diagram for Circular Singly Linked List :
 <br>
 <br>
-![Diagram](Assets/Circular-Doubly-Linked-List-Diagram.png)
+
+![Diagram](Assets/Circular-Singly-Linked-List-Diagram.png)
 <hr>

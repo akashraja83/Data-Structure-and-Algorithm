@@ -1,15 +1,21 @@
 Introduction :
-
-    A Doubly Linked List (DLL) is a linear data structure in which:
-      -Each element (node) contains:
-        -Data
-        -A reference (pointer) to the next node
-        -A reference (pointer) to the previous node
-      -The first node’s previous pointer is null
-      -The last node’s next pointer is null
-      -Traversal is possible in both directions (forward and backward)
-      -Memory is not contiguous
-      -Nodes are dynamically allocated and connected using two links
+<br>
+<h2>Doubly Linked List (DLL)</h2>
+    <p>A Doubly Linked List (DLL) is a linear data structure in which:</p>
+    <ul>
+        <li>Each element (node) contains:
+            <ul>
+                <li>Data</li>
+                <li>A reference (pointer) to the next node</li>
+                <li>A reference (pointer) to the previous node</li>
+            </ul>
+        </li>
+        <li>The first node’s previous pointer is <strong>null</strong></li>
+        <li>The last node’s next pointer is <strong>null</strong></li>
+        <li>Traversal is possible in both directions (forward and backward)</li>
+        <li>Memory is not contiguous</li>
+        <li>Nodes are dynamically allocated and connected using two links</li>
+    </ul>
 <hr>
 Basic Structure :
 <br>
@@ -21,7 +27,7 @@ Basic Structure :
 <ol>
 <li>
 <strong>Advantages of a Doubly Linked List</strong>
-    
+    <br>
 <ul>
             <li>
                 <strong>Bidirectional Traversal</strong>
@@ -58,7 +64,7 @@ Basic Structure :
 <hr>
 <li>
     <strong>Drawbacks of a Doubly Linked List</strong>
-    
+    <br>
 <ul>
         <li>
             <strong>More Memory Usage</strong>

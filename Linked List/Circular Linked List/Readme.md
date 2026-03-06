@@ -17,14 +17,14 @@
 
 <p>Diagram for Circular Singly Linked List :</p>
 <br>
-<br>
+
 ![Diagram](Assets/Circular-Singly-Linked-List-Diagram.png)
 
 <hr>
 <br>
 <p>Diagram for Circular Singly Linked List :</p>
 <br>
-<br>
 
 ![Diagram](Assets/Circular-Doubly-Linked-List-Diagram.png)
 <hr>
+<br>
